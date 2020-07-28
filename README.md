@@ -1,16 +1,17 @@
-### Hi there 👋
+### Howdy!
 
-<!--
-**iChris/iChris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a podcast editor & producer living in Saskatoon, Saskatchewan, Canada.
 
-Here are some ideas to get you started:
+I own my own consulting company, [Lemon Productions](https://www.lemonproductions.ca/), where I help people & businesses build, launch, edit, and produce podcasts. What kind of podcasts? [Take a look at my portfolio](https://www.lemonproductions.ca/portfolio/).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I also help friends host and produce podcasts at [Goodstuff.fm](https://goodstuff.fm/).
+
+👯 I’m looking to collaborate on creating a new podcast. I don't know what about. I've been floundering for years with trying to figure out what I want to say and why I want to say it. Maybe you have an idea we could work on together?
+
+💬 Ask me about podcasting, live streaming (I **love** the tech and community around live streaming. I have no business model for it but I'd love to help you if you do.), building [Discord communities](https://discord.com/), and trying to be authentic and less cynical [on Twitter](https://twitter.com/ichris).
+
+📫 How to reach me: [Get in touch with me for podcasting related work here](https://www.lemonproductions.ca/contact/) or [message me on Twitter for fun](https://twitter.com/ichris).
+
+😄 Pronouns: He / him
+
+⚡ Fun fact: I've lived in Canada my entire life but have never played hockey on ice.

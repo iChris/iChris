@@ -1,10 +1,12 @@
-### Howdy!
+## Howdy!
 
-I'm a podcast editor & producer living in Saskatoon, Saskatchewan, Canada.
+I'm a [podcast editor & producer](https://www.lemonproductions.ca/) living in [Saskatoon](https://en.wikipedia.org/wiki/Saskatoon), [Saskatchewan](https://en.wikipedia.org/wiki/Saskatchewan), [Canada](https://en.wikipedia.org/wiki/Saskatchewan).
 
 I own my own consulting company, [Lemon Productions](https://www.lemonproductions.ca/), where I help people & businesses build, launch, edit, and produce podcasts. What kind of podcasts? [Take a look at my portfolio](https://www.lemonproductions.ca/portfolio/).
 
 I also help friends host and produce podcasts at [Goodstuff.fm](https://goodstuff.fm/).
+
+### About Me
 
 👯 I’m looking to collaborate on creating a new podcast. I don't know what about. I've been floundering for years with trying to figure out what I want to say and why I want to say it. Maybe you have an idea we could work on together?
 

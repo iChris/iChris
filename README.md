@@ -10,7 +10,7 @@ I also help friends host and produce podcasts at [Goodstuff](https://goodstuff.n
 
 👯 I’m looking to collaborate on creating a new podcast. I don't know what about. I've been floundering for years with trying to figure out what I want to say and why I want to say it. Maybe you have an idea we could work on together?
 
-💬 Ask me about podcasting, live streaming I **love** the tech and community around live streaming. I'm building a [Discord community](https://lemonaudio.club/) for viewers of my YouTube channel](https://youtube.com/c/lemonproductionsca), and trying to be authentic and less cynical [on Twitter](https://twitter.com/ichris).
+💬 Ask me about podcasting, live streaming I **love** the tech and community around live streaming. I'm building a [Discord community](https://lemonaudio.club/) for viewers of [my YouTube channel](https://youtube.com/c/lemonproductionsca), and trying to be authentic and less cynical [on Twitter](https://twitter.com/ichris).
 
 📫 How to reach me: [Get in touch with me for podcasting related work here](https://www.lemonproductions.ca/contact/) or [message me on Twitter for fun](https://twitter.com/ichris).
 
